@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5021002937b94eccb4d9bc40162675bf, type: 3}
+  m_Name: UIFactoryConfig
+  m_EditorClassIdentifier: 
+  canvasPrefab: {fileID: -7185936322228042777, guid: 64cd35aa205df674089167077e9eeb1f, type: 3}
+  levelScreenPrefab: {fileID: 8456993177445905452, guid: bfff972114d97d74e8a46ba92a8fe9dc, type: 3}
+  levelCardPrefab: {fileID: 7134220771678907525, guid: 7c6d816a47412374f97051c33bbfcfe8, type: 3}
